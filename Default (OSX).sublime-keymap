@@ -1,0 +1,3 @@
+[
+	{ "keys": ["super+shift+b"], "command": "href_to_b64" }
+]
